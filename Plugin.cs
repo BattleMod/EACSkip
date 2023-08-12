@@ -1,12 +1,6 @@
 ﻿using BepInEx;
 using BepInEx.Unity.IL2CPP;
 using HarmonyLib;
-using Il2CppInterop.Runtime;
-using Il2CppInterop.Runtime.Injection;
-using UnityEngine;
-using UnityEngine.SceneManagement;
-using UniverseLib;
-using UserInterface.MainMenu;
 
 namespace BattleMod;
 
